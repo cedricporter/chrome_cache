@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/opt/google/chrome/google-chrome.origin && /home/cedricporter/projects/chrome_cache/chrome_save_to_disk.sh
