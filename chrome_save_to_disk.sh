@@ -7,5 +7,6 @@ file=/home/cedricporter/shm_backup/save.log
 echo "----- Start Saving -----" >> $file
 date >> $file
 echo "----- End -----" >> $file
+notify-send "Chrome saving to disk is done!"
 
 
